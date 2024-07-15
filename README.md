@@ -1,2 +1,2 @@
 # codetop.cc
-codetop 前 100 C++ 实现
+codetop C++ 实现
