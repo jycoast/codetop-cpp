@@ -15,6 +15,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#include "node.h"
 #include <cstddef>
 using namespace std;
 
